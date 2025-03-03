@@ -31,4 +31,8 @@ Embora a responsividade não tenha sido o foco principal neste primeiro momento,
 Conclusão:
 Esse componente foi desenvolvido para demonstrar uma interface limpa, interativa e funcional, permitindo a pesquisa e visualização detalhada das informações dos funcionários de forma eficiente. Utilizamos React para garantir uma experiência dinâmica, e a escolha das bibliotecas e das técnicas de estilização e gestão de estado foi feita para criar um código organizado, de fácil manutenção e com boa performance.
 
+
+
+<img src="https://github.com/JulianaPaganini/BeTalent/main/src/assets/projetoBetalent.png"/>
+
 O projeto cumpre com os requisitos básicos de usabilidade e funcionalidade, oferecendo uma interface intuitiva e interativa para o usuário.
