@@ -28,8 +28,9 @@ O projeto inclui uma gestão de estados de carregamento e erro:
 8. Responsividade e Acessibilidade:
 Embora a responsividade não tenha sido o foco principal neste primeiro momento, a estrutura e a escolha das bibliotecas, como `styled-components`, facilitam a adaptação do layout para diferentes tamanhos de tela. A ideia é que a tabela possa ser visualizada adequadamente em dispositivos móveis, com uma futura adaptação para exibir as informações detalhadas de forma compacta em telas menores.
 
-Conclusão:
+<h3>Conclusão:</h3>
 Esse componente foi desenvolvido para demonstrar uma interface limpa, interativa e funcional, permitindo a pesquisa e visualização detalhada das informações dos funcionários de forma eficiente. Utilizamos React para garantir uma experiência dinâmica, e a escolha das bibliotecas e das técnicas de estilização e gestão de estado foi feita para criar um código organizado, de fácil manutenção e com boa performance.
 O projeto cumpre com os requisitos básicos de usabilidade e funcionalidade, oferecendo uma interface intuitiva e interativa para o usuário.
 
-<img src="https://github.com/JulianaPaganini/BeTalent/main/src/assets/projetoBetalent.png" />
+<img src="https://raw.githubusercontent.com/JulianaPaganini/BeTalent/main/src/assets/projetoBetalent.png" width="500" />
+
